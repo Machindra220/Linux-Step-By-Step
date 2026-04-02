@@ -1,25 +1,12 @@
-# 🐧 Topic: Features
+# 🌟 04. Features of Linux
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Why do millions of people choose Linux?
 
----
-
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+* **Open Source:** You have the **freedom** to use, study, and change the software.
+* **Security:** Linux is very resistant to **Viruses** because of how it handles permissions.
+* **Multi-User:** Many people can be logged into the same computer at the same time.
+* **Stability:** Linux computers can run for **years** without ever needing a restart.
+* **Lightweight:** It can make an old, slow computer feel **fast** again.
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)

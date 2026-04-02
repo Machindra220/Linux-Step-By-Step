@@ -1,25 +1,16 @@
-# 🐧 Topic: Unix vs Linux
+# 🥊 03. Unix vs Linux
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Learn how the "Grandfather" (Unix) differs from the "Successor" (Linux).
 
----
+### 📊 Key Differences
+* **Unix** was created in the 1960s at AT&T Bell Labs. It was expensive and meant for big companies.
+* **Linux** is "Unix-like." It works the same way but was built from scratch to be **free**.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+| Feature | Unix | Linux |
+| :--- | :--- | :--- |
+| **Cost** | Expensive / Paid | **Free** |
+| **Code** | Private (Closed Source) | **Public** (Open Source) |
+| **Portability** | Only specific hardware | Runs on **anything** (Toaster to Supercomputer) |
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)

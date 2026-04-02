@@ -1,25 +1,14 @@
-# 🐧 Topic: Licensing
+# ⚖️ 06. Linux Licensing
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Learn the rules that keep Linux free forever.
 
----
-
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+* Linux uses the **GNU GPL (General Public License)**.
+* **Copyleft:** This is a clever rule. If you take Linux code and improve it, you **must** share your improvements with everyone else for free.
+* **The 4 Freedoms:**
+  1. Freedom to **run** the program for any purpose.
+  2. Freedom to **study** how it works.
+  3. Freedom to **redistribute** (share) copies.
+  4. Freedom to **improve** and release your version.
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)

@@ -1,25 +1,19 @@
-# 🐧 Topic: Introduction
+# 🐧 01. Introduction to Linux
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Understand what Linux is and why it's the hidden engine of the world.
 
----
+### 💡 What is Linux?
+* **Linux** is an **Operating System (OS)**, just like Windows or macOS.
+* It acts as a **translator** between you and the computer hardware.
+* Unlike Windows, Linux is **Open Source**, meaning the "recipe" (source code) is free for everyone to see and improve.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🚀 Where is Linux?
+* **Servers:** Most websites you visit (Google, Facebook, Amazon) run on Linux.
+* **Smartphones:** Every **Android** phone is powered by a version of Linux.
+* **Supercomputers:** 100% of the world's fastest supercomputers run Linux.
+* **Gadgets:** Smart fridges, cars, and even the **NASA Mars Rover** use Linux!
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)
