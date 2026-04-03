@@ -8,5 +8,9 @@
 * **Stability:** Linux computers can run for **years** without ever needing a restart.
 * **Lightweight:** It can make an old, slow computer feel **fast** again.
 
+🎮 **Mini-Challenge:** 
+
+List more features of Linux by check other websites and documents!
+
 ---
 [⬅ Back to Phase Index](./00_Phase_Intro.md)

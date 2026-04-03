@@ -12,5 +12,9 @@
 | **Code** | Private (Closed Source) | **Public** (Open Source) |
 | **Portability** | Only specific hardware | Runs on **anything** (Toaster to Supercomputer) |
 
+🎮 **Mini-Challenge:** Level 3 - The Decoder
+
+"Explain to a friend or family member why Linux is like a **'Community Garden'** while Windows is like a **'Private Fenced Yard.'** Did they understand the difference?"
+
 ---
 [⬅ Back to Phase Index](./00_Phase_Intro.md)

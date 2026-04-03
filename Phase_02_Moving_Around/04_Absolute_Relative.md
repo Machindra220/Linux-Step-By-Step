@@ -1,25 +1,20 @@
-# 🐧 Topic: Absolute Relative
+# 🧭 04. Absolute vs Relative Paths
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Learn the two ways to give directions to a file.
 
----
+### 📍 Absolute Path
+* This is the **full address** starting from the Root (`/`).
+* **Analogy:** Giving your full home address (Country, State, City, Pin, House No).
+* **Example:** `/home/machindra/Documents/notes.txt`
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 📍 Relative Path
+* This gives directions based on **where you are right now**.
+* **Analogy:** Telling someone "Go to the room next door."
+* **Example:** If you are already in `/home/machindra`, the relative path is just `Documents/notes.txt`.
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+🎮 **Mini-Challenge:** Level 8 - The GPS Guide
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+"You are currently in `/home/student`. You want to go to `/home/student/Downloads`. Which is faster to type: the Absolute path or the Relative path? Try both!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)

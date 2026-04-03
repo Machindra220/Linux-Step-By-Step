@@ -11,6 +11,9 @@
 * The official mascot of Linux is **Tux**, the penguin.
 * **Tux** stands for **T**orvalds **U**ni**X**.
 
+🎮 **Mini-Challenge:** Level 2 - The Time Traveler
+
+"Linus Torvalds created Linux in 1991. If you were starting a big project today that the whole world would use, what would you name your 'Mascot' and why?"
 
 
 ---

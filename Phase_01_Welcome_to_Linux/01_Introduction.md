@@ -13,7 +13,9 @@
 * **Supercomputers:** 100% of the world's fastest supercomputers run Linux.
 * **Gadgets:** Smart fridges, cars, and even the **NASA Mars Rover** use Linux!
 
+🎮 **Mini-Challenge:** Level 1 - The Scout
 
+"Find one device in your house (besides your computer) that you think runs on Linux. Is it your Smart TV? Your Router? Your Android phone? Write the name of that device or devices in your notebook or Notepad File!"
 
 ---
 [⬅ Back to Phase Index](./00_Phase_Intro.md)

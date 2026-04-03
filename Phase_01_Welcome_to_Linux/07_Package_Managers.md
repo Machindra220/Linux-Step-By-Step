@@ -23,5 +23,7 @@ To install a new app (like the VLC player) on Ubuntu, you use:
 * **a** - **apt**: Using the Advanced Package Tool.
 * **u** - **update**: Tells the computer to check for the latest versions of all your apps.
 
+🎮 **Mini-Challenge:** 
+
 ---
 [⬅ Back to Phase Index](./00_Phase_Intro.md)

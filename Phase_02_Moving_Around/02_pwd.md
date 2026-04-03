@@ -1,25 +1,24 @@
-# 🐧 Topic: pwd
+# 📍 02. pwd (Print Working Directory)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Find out exactly where you are standing in the Linux filesystem.
+
+### 💡 Concept
+* When you use the terminal, you are always "inside" a folder. 
+* **pwd** stands for **Print Working Directory**. 
+* Think of it as the **"You Are Here"** marker on a mall map.
+
+### 🛠️ The Command
+`pwd`
+
+**Command Breakdown:**
+* **p** - **print**: Display the text on the screen.
+* **w** - **working**: The folder you are currently using.
+* **d** - **directory**: Another word for a folder.
+
+🎮 **Mini-Challenge:** Level 6 - The Radar
+
+"Type pwd in your terminal. Copy the output and paste it in your Notepad. Congratulations, you just found your exact coordinates in the Digital World!"
+
 
 ---
-
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
-
----
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./00_Phase_Intro.md)

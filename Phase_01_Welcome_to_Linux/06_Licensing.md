@@ -10,5 +10,15 @@
   3. Freedom to **redistribute** (share) copies.
   4. Freedom to **improve** and release your version.
 
+🎮 **Mini-Challenge:** 
+
+Just for your information go through this document to understand types of subscriptions and what more can get with the Subscriptions: [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/rhdc/managed-files/li-red-hat-enterprise-linux-subscription-guide-2562450pr-202511-en.pdf)
+
+Explore below websites of different Linux distributions:
+1. [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+2. [Ubuntu](https://ubuntu-uk.org/download/)
+3. [Ubuntu Tutorials](https://ubuntu.com/tutorials/command-line-for-beginners#6-a-bit-of-plumbing)
+4. [Kali Linux](https://www.kali.org/)
+
 ---
 [⬅ Back to Phase Index](./00_Phase_Intro.md)
