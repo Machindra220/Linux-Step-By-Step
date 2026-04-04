@@ -36,7 +36,8 @@
 
 > "Visit **https://www.google.com/search?q=Explainshell.com** and type in the command: `ls -lhart`.
 >
-> Read the breakdown of what each of those 5 letters (**l**, **h**, **a**, **r**, **t**) does. Post your favorite 'discovery' from that website in your Notepad\! /n Knowledge is your greatest power\!"
+> Read the breakdown of what each of those 5 letters (**l**, **h**, **a**, **r**, **t**) does. Post your favorite 'discovery' from that website in your Notepad\! 
+> Knowledge is your greatest power\! Keep Learning\!\!\!"
 
 -----
 
