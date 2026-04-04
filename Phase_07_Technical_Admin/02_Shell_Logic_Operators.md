@@ -1,25 +1,22 @@
-# 🐧 Topic: Shell Logic Operators
+# 🧠 02. Shell Logic & Operators
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Teach your terminal how to make decisions using "If/Then" logic.
 
----
+### 💡 Concept
+* **Operators** allow you to chain commands based on whether the previous one worked or failed.
+* It’s like giving the computer a set of instructions: "If the first task works, do the second one!"
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Operators
+`command1 && command2`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **`&&`** - **AND**: Only runs the second command if the first one **succeeded** (Exit code 0).
+* **`||`** - **OR**: Only runs the second command if the first one **failed**.
+* **`;`** - **Semicolon**: Runs both commands one after another, **no matter what** happens.
+* **`&`** - **Background**: Runs the command in the "background" so you can keep typing while it works.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 38 - The Mastermind
+> "Try this: `mkdir Test && cd Test`. If the folder is created, you will automatically 'teleport' inside. Now try `ls /ghost || echo 'Folder not found'`. Did the computer talk back to you?"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

@@ -1,25 +1,21 @@
-# 🐧 Topic: head tail
+# 📏 02. head & tail
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Peek at just the start or the end of a long file.
 
----
+### 💡 Concept
+* **head**: Shows the **first 10 lines** by default. Use this to see the "Header" or title of a file.
+* **tail**: Shows the **last 10 lines**. Use this to see the most recent updates at the end of a file.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`tail -f filename`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **n** - **number**: Allows you to choose exactly **how many lines** to see (e.g., `head -n 5`).
+* **f** - **follow**: **(Advanced)** This keeps the file open and shows new lines as they are added in real-time! It's like watching a live chat.
+* **c** - **bytes**: Shows the first or last few 'characters' instead of whole lines.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 20 - The Sneak Peek
+> "Most systems have a file at `/etc/passwd`. Try running `head -n 3 /etc/passwd`. Can you see the first three users of your system without scrolling through hundreds of lines?"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

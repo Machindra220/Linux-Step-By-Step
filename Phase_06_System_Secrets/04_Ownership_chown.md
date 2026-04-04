@@ -1,25 +1,22 @@
-# 🐧 Topic: Ownership chown
+# 👤 04. Ownership (chown)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Change who "owns" a file or folder.
 
----
+### 💡 Concept
+* Every file in Linux has an **Owner** and a **Group**.
+* **chown** stands for **Change Owner**.
+* Usually, only the Root user or the current owner can give a file away to someone else.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`sudo chown user:group filename`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **R** - **Recursive**: Changes the owner for a folder and every file inside it (Very common!).
+* **v** - **verbose**: Shows a message for every file whose owner was changed.
+* **c** - **changes**: Like verbose, but only talks if a change actually happened.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 34 - The Gift Giver
+> "Create a folder named `Shared`. Use `ls -l` to see that you are the owner. If you had another user on your PC, you would use `chown` to hand the folder over to them. For now, just try to change the group of the folder to 'nogroup'!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

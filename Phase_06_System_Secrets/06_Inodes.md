@@ -1,25 +1,21 @@
-# 🐧 Topic: Inodes
+# 🆔 06. Inodes (The Secret ID)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Understand how Linux identifies files without using their names.
 
----
+### 💡 Concept
+* Linux doesn't actually care about the **filename** (`homework.txt`). 
+* It identifies files using a hidden ID number called an **Inode**.
+* Think of it like a **Roll Number** in a classroom. The teacher (Linux) uses the roll number to find your record.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`ls -i`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **i** - **inode**: Displays the unique ID number next to every file.
+* **s** - **size**: Often used with `-i` to see how much space the "ID record" is taking.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 36 - The Identity Detector
+> "Run `ls -i` in your current folder. Look at the long numbers. Now, create a hard link of a file and run `ls -i` again. Do you see two different names with the **same** ID number? You’ve found a file with two identities!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

@@ -1,25 +1,22 @@
-# 🐧 Topic: sudo command
+# 🔑 02. The sudo Command
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Learn how to temporarily use "Super Powers" to fix the system.
 
----
+### 💡 Concept
+* **sudo** stands for **"SuperUser Do"**.
+* In Linux, normal users aren't allowed to change system settings (to prevent accidents).
+* Using `sudo` is like a security guard showing their **Admin Badge** to enter a locked room.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`sudo [command]`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **u** - **user**: Run the command as a **different** user instead of Root.
+* **l** - **list**: Shows you exactly what "powers" you are allowed to use on this computer.
+* **k** - **kill**: Forgets your password immediately (so the next person can't use your powers).
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 32 - The Power Trip
+> "Try to look at a secret file by typing `cat /etc/shadow`. It should say 'Permission Denied'. Now try `sudo cat /etc/passwd`. (Don't worry, this one is safe!). Did it let you in?"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

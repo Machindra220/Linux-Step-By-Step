@@ -1,25 +1,25 @@
-# 🐧 Topic: Filters sed awk
+# ✂️ 04. Filters: sed & awk
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Edit and extract data from files automatically without opening them.
+
+### 💡 Concept
+* **sed**: The "Stream Editor." It finds a word and replaces it with another globally.
+* **awk**: A powerful tool for "Columns." If your file is a table, `awk` can pick out just the names or just the prices.
+
+### 🛠️ The Commands
+`sed 's/old/new/g' file`
+`awk '{print $1}' file`
+
+**Tag Details (sed):**
+* **s** - **substitute**: The instruction to replace text.
+* **g** - **global**: Change every mention in the line, not just the first one.
+* **i** - **in-place**: **(Advanced)** Saves the changes directly to the file immediately.
+
+**Tag Details (awk):**
+* **$1, $2...**: Refers to the first column, second column, etc.
+
+### 🎮 Mini-Challenge: Level 28 - The Editor
+> "Create a file with the text 'Hello World'. Use `sed` to change 'World' to your Name. Did it work on the screen? Remember, without `-i`, the original file stays the same!"
 
 ---
-
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
-
----
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

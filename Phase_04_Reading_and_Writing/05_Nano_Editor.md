@@ -1,25 +1,21 @@
-# 🐧 Topic: Nano Editor
+# 📝 05. Nano Editor
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Your first user-friendly text editor for the terminal.
 
----
+### 💡 Concept
+* **Nano** is like the "Notepad" of Linux. It is very simple and shows all the shortcuts at the bottom of the screen.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ Working in Nano
+`nano filename.txt`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Key Shortcuts (The `^` means the Ctrl key):**
+* **Ctrl + O**: **Write Out** (Save the file).
+* **Ctrl + X**: **Exit** (Close the file).
+* **Ctrl + K**: **Cut** a whole line of text.
+* **Ctrl + U**: **Uncut** (Paste) the line.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 23 - The Author
+> "Open a new file with `nano profile.md`. Write your name and your favorite hobby. Save it and exit. You’ve just created your first document from scratch!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

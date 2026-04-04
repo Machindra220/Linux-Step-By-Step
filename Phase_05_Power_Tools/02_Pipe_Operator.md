@@ -1,25 +1,23 @@
-# 🐧 Topic: Pipe Operator
+# 🔗 02. The Pipe Operator (|)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Connect simple commands together to perform complex tasks.
 
----
+### 💡 Concept
+* The **Pipe (`|`)** is the most powerful character in Linux.
+* It takes the **Output** of the first command and feeds it directly as the **Input** for the second command.
+* **Analogy:** It's like an assembly line in a factory. One machine makes a part, and the "pipe" moves it to the next machine to paint it.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
+### 🛠️ The Command
+`command1 | command2`
 
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+**Usage Examples:**
+* `ls /bin | less` : Lists all programs and lets you scroll through them.
+* `cat names.txt | sort` : Reads a list of names and puts them in ABC order.
+
+### 🎮 Mini-Challenge: Level 26 - The Connector
+> "Use the command `ls /etc | head -n 5`. You just told Linux: 'Get the list of files, then show me ONLY the first 5'. Can you use a pipe to see the last 3 files in your home directory?"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

@@ -1,25 +1,22 @@
-# 🐧 Topic: more less
+# 📖 03. more & less
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Read long files one page at a time so you don't get overwhelmed.
 
----
+### 💡 Concept
+* **more**: An older tool that lets you scroll down page by page.
+* **less**: The "Modern" version. Despite the name, **'less is more'** because it allows you to scroll **up and down**, search for words, and is much faster.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`less filename`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Keyboard Shortcuts inside `less`:**
+* **Spacebar**: Go down one page.
+* **b**: Go back up one page.
+* **/**: Type a word after the slash to **Search** for it.
+* **q**: **Quit** (The most important button!).
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 21 - The Librarian
+> "Open a long file (like `/etc/services`) using `less`. Try searching for the word 'http' using the `/` key. Once you find it, press `q` to exit the library!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)

@@ -1,25 +1,24 @@
-# 🐧 Topic: RegEx
+# 🧩 05. RegEx (Regular Expressions)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Use "Secret Codes" to find patterns in text.
+
+### 💡 Concept
+* **RegEx** is a language used to describe patterns. Instead of searching for "cat", you can search for "any word starting with 'c' and ending with 't'".
+
+### 🛠️ The Symbols
+* **`.`** : Matches **any single character**.
+* **`^`** : Matches the **start** of a line.
+* **`$`** : Matches the **end** of a line.
+* **`*`** : Matches the previous character **zero or more times**.
+
+
+
+### 🚀 Example:
+`grep "^a" names.txt`
+* This finds all names starting with the letter 'a'.
+
+### 🎮 Mini-Challenge: Level 29 - The Pattern Matcher
+> "Use `grep` to find all lines in `/etc/passwd` that end with the word 'bash'. (Hint: Use the `$` symbol). You just found all the users who use the Bash shell!"
 
 ---
-
-## 💡 Concept Overview
-Explain the topic here using an analogy.
-
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
-
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
-
----
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)
