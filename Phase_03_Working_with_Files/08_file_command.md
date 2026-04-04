@@ -1,25 +1,20 @@
-# 🐧 Topic: file command
+# 🔍 08. file (Identify File Type)
 
-> **Goal:** Enter a simple goal for this lesson here.
+> **Goal:** Find out what a file actually is.
 
----
+### 💡 Concept
+* In Windows, we look at the extension (`.jpg`, `.mp3`). 
+* In Linux, extensions don't matter much. The **file** command looks **inside** the file to tell you what it truly is.
 
-## 💡 Concept Overview
-Explain the topic here using an analogy.
+### 🛠️ The Command
+`file filename`
 
-## 🛠️ The Command
-```bash
-# Example command
-command_name -options [argument]
-```
+**Tag Details:**
+* **b** - **brief**: Gives a short, simple answer.
+* **s** - **special**: Allows the command to look at system files or hardware files.
 
-## 🚀 Step-by-Step Practice
-1. **Open your terminal.**
-2. **Type the command.**
-3. **Observe the output.**
-
-## 🧠 Mini-Challenge
-Add a small task for the student to complete!
+### 🎮 Mini-Challenge: Level 18 - The Detective
+> "Run the command `file /bin/ls`. Is it a text file? A picture? Or a 'shared object' (a program)? Now you can see the truth behind any file!"
 
 ---
-[⬅ Back to Syllabus](../README.md)
+[⬅ Back to Phase Index](./README.md)
